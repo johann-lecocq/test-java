@@ -1,0 +1,12 @@
+Test en Java avec ou sans biblothèques.
+
+Prérequis:
+    Maven
+
+
+Annotation:
+    petit test sur les annotations de methodes
+
+Scripting:
+    Test de scripting avec interface en Java et implémentation en Jython, Jruby, Javascript et Groovy
+    sur des opérations mathématiques de base.
